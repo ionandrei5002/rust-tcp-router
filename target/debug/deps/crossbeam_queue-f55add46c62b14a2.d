@@ -1,0 +1,10 @@
+/home/andrei/project/rustprojects/rust-tcp-router/target/debug/deps/crossbeam_queue-f55add46c62b14a2.rmeta: /home/andrei/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.1.2/src/lib.rs /home/andrei/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.1.2/src/array_queue.rs /home/andrei/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.1.2/src/err.rs /home/andrei/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.1.2/src/seg_queue.rs
+
+/home/andrei/project/rustprojects/rust-tcp-router/target/debug/deps/libcrossbeam_queue-f55add46c62b14a2.rlib: /home/andrei/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.1.2/src/lib.rs /home/andrei/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.1.2/src/array_queue.rs /home/andrei/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.1.2/src/err.rs /home/andrei/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.1.2/src/seg_queue.rs
+
+/home/andrei/project/rustprojects/rust-tcp-router/target/debug/deps/crossbeam_queue-f55add46c62b14a2.d: /home/andrei/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.1.2/src/lib.rs /home/andrei/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.1.2/src/array_queue.rs /home/andrei/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.1.2/src/err.rs /home/andrei/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.1.2/src/seg_queue.rs
+
+/home/andrei/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.1.2/src/lib.rs:
+/home/andrei/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.1.2/src/array_queue.rs:
+/home/andrei/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.1.2/src/err.rs:
+/home/andrei/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.1.2/src/seg_queue.rs:

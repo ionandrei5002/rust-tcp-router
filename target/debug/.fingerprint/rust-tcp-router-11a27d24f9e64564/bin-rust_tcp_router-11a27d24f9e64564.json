@@ -1,0 +1,1 @@
+{"rustc":5632553715040628694,"features":"[]","target":11093134274899158951,"profile":14996655781355331481,"path":1036222786711178230,"deps":[[141628029234581601,"rayon",false,11855097375253842563]],"local":[{"CheckDepInfo":{"dep_info":".fingerprint/rust-tcp-router-11a27d24f9e64564/dep-bin-rust_tcp_router-11a27d24f9e64564"}}],"rustflags":[],"metadata":7041251270504651918}
